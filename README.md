@@ -7,10 +7,12 @@
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1464-reduce-array-size-to-the-half) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1464-reduce-array-size-to-the-half) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -23,4 +25,8 @@
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1464-reduce-array-size-to-the-half) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
