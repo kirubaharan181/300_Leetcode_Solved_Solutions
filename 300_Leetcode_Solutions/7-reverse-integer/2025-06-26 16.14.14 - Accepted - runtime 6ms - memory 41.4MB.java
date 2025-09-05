@@ -1,0 +1,29 @@
+class Solution {
+    public int reverse(int x) {
+        String s=String.valueOf(x);
+        StringBuilder sb=new StringBuilder(s);
+        boolean b=false;
+
+        if(sb.charAt(s.length()-1)=='0' )
+        {
+            sb.deleteCharAt(s.length()-1);
+        }
+        if(x<0)
+        {
+            sb.deleteCharAt(0);
+            b=true;
+        }
+        sb.reverse();
+        System.out.print(sb.toString());
+        
+       try {
+            int res = Integer.parseInt(sb.toString());
+            return b ? -res : res;
+        } 
+        catch (NumberFormatException e) 
+        {
+
+            return 0;
+        }
+    }
+}
