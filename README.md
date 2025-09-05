@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
