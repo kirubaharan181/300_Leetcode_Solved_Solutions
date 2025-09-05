@@ -37,4 +37,16 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/0365-water-and-jug-problem) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
