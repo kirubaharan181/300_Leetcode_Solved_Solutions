@@ -9,6 +9,7 @@ Dive into 300 solved LeetCode problems in Java! Each solution is organized by to
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2107-find-unique-binary-string](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -17,6 +18,7 @@ Dive into 300 solved LeetCode problems in Java! Each solution is organized by to
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2107-find-unique-binary-string](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Greedy
 |  |
@@ -73,5 +75,10 @@ Dive into 300 solved LeetCode problems in Java! Each solution is organized by to
 ## String
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2887-sort-vowels-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
