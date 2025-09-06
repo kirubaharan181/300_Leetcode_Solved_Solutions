@@ -9,6 +9,7 @@ Dive into 300 solved LeetCode problems in Java! Each solution is organized by to
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,12 @@ Dive into 300 solved LeetCode problems in Java! Each solution is organized by to
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/0365-water-and-jug-problem) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
