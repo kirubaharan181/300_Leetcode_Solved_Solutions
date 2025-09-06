@@ -4,10 +4,18 @@ class Solution {
         for(int k:nums)
         {
             st.add(k);
-            String str=String.valueOf(k);
-            String t=new StringBuilder(str).reverse().toString();
-            st.add(Integer.parseInt(t));
+            st.add(Rev(k));
         }
         return st.size();
+    }
+    public int Rev(int k)
+    {
+        int t=0;
+        while(k>0)
+        {
+            t=t*10+(k%10);
+            k/=10;
+        }
+        return t;
     }
 }
