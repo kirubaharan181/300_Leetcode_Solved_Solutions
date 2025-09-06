@@ -10,6 +10,7 @@ Dive into 300 solved LeetCode problems in Java! Each solution is organized by to
 | [1464-reduce-array-size-to-the-half](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,9 @@ Dive into 300 solved LeetCode problems in Java! Each solution is organized by to
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+## Matrix
+|  |
+| ------- |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
