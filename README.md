@@ -26,6 +26,7 @@ Dive into 300 solved LeetCode problems in Java! Each solution is organized by to
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/1464-reduce-array-size-to-the-half) |
+| [2887-sort-vowels-in-a-string](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -69,4 +70,8 @@ Dive into 300 solved LeetCode problems in Java! Each solution is organized by to
 |  |
 | ------- |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/kirubaharan181/300_Leetcode_Solved_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
